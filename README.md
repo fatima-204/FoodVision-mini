@@ -1,4 +1,6 @@
-#Food Vision Mini 🍕🥩🍣
+Food Vision Mini 🍕🥩🍣
+
+
 Food Vision Mini is a food classification model that categorizes images into three classes: Pizza, Steak, and Sushi. It uses an EfficientNet-B2 model as a feature extractor to achieve quick and accurate classification. This project showcases the power of deep learning and computer vision.
 
 Features
